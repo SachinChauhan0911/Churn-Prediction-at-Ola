@@ -78,7 +78,7 @@ By identifying drivers at risk of leaving, this project provides insights that c
 - total business value.
 - Income,
 - Quarterlyrating_Increased, and so on
- !(https://drive.google.com/file/d/1E8pOVL6m07pfFPLsXKdqXmdnDMHWiZpy/view?usp=sharing)
+ ![new_image](https://github.com/SachinChauhan0911/Churn-Prediction-at-Ola/blob/main/images/Important%20Features%20coming%20from%20Random%20Forest.png)
   
 ### For Gradient Boosting:
 - Last quarterly rating, 
