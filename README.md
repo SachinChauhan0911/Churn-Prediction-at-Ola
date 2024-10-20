@@ -93,6 +93,7 @@ By identifying drivers at risk of leaving, this project provides insights that c
 - joining_Designation.
 - Income_inc
 - Quarterlyrating_Increased, and so on
+  ![new_image3](https://github.com/SachinChauhan0911/Churn-Prediction-at-Ola/blob/main/images/Screenshot%202024-10-21%20at%204.35.59%20AM.png)
 
 
 
