@@ -86,6 +86,7 @@ By identifying drivers at risk of leaving, this project provides insights that c
 - Age
 - Income, and so on
 - Quarterlyrating_Increased, and so on
+  ![new_image2](https://github.com/SachinChauhan0911/Churn-Prediction-at-Ola/blob/main/images/Screenshot%202024-10-21%20at%204.33.25%20AM.png)
   
 ### For XG Boosting:
 - Last quarterly rating,
