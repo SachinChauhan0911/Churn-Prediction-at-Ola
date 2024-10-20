@@ -76,6 +76,7 @@ By identifying drivers at risk of leaving, this project provides insights that c
 - total business value.
 - Income,
 - Quarterlyrating_Increased, and so on
+  ![Important Features  - Random Forest Algorithm](https://drive.google.com/file/d/1E8pOVL6m07pfFPLsXKdqXmdnDMHWiZpy/view?usp=sharing)
   
 - For Gradient Boosting:
 - Last quarterly rating, 
